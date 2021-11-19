@@ -25,6 +25,3 @@ Api con nodejs y express consumiendo datos de una base de datos Postgress
     $ node index.js  </pre></li>
 </ul>  
 
-<pre class="language-markup">
-	$ npm install
-</pre>
